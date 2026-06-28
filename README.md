@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Anubhavsh24/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
