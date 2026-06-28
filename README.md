@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Anubhavsh24/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Anubhavsh24/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Anubhavsh24/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0136-single-number) |
@@ -58,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Anubhavsh24/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
