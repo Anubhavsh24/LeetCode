@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anubhavsh24/LeetCode/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/Anubhavsh24/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anubhavsh24/LeetCode/tree/master/0242-valid-anagram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anubhavsh24/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3945-digit-frequency-score](https://github.com/Anubhavsh24/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anubhavsh24/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Anubhavsh24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Anubhavsh24/LeetCode/tree/master/0038-count-and-say) |
+| [0205-isomorphic-strings](https://github.com/Anubhavsh24/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anubhavsh24/LeetCode/tree/master/0242-valid-anagram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anubhavsh24/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Matrix
