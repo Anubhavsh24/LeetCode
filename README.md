@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Anubhavsh24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Anubhavsh24/LeetCode/tree/master/0283-move-zeroes) |
 | [0861-score-after-flipping-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0861-score-after-flipping-matrix) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anubhavsh24/LeetCode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Anubhavsh24/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Anubhavsh24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anubhavsh24/LeetCode/tree/master/0242-valid-anagram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anubhavsh24/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3945-digit-frequency-score](https://github.com/Anubhavsh24/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Anubhavsh24/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Anubhavsh24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anubhavsh24/LeetCode/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/Anubhavsh24/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## String
