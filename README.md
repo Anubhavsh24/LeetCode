@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anubhavsh24/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Anubhavsh24/LeetCode/tree/master/0242-valid-anagram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anubhavsh24/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3945-digit-frequency-score](https://github.com/Anubhavsh24/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Anubhavsh24/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Anubhavsh24/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0189-rotate-array) |
+| [3945-digit-frequency-score](https://github.com/Anubhavsh24/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
