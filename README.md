@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anubhavsh24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Anubhavsh24/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Anubhavsh24/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0054-spiral-matrix) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anubhavsh24/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Anubhavsh24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Anubhavsh24/LeetCode/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/Anubhavsh24/LeetCode/tree/master/0242-valid-anagram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anubhavsh24/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Anubhavsh24/LeetCode/tree/master/0050-powx-n) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anubhavsh24/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
