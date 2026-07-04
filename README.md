@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Anubhavsh24/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Anubhavsh24/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Anubhavsh24/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Anubhavsh24/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Anubhavsh24/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anubhavsh24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Anubhavsh24/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
