@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Anubhavsh24/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Anubhavsh24/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Anubhavsh24/LeetCode/tree/master/0389-find-the-difference) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Anubhavsh24/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anubhavsh24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Anubhavsh24/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Anubhavsh24/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Anubhavsh24/LeetCode/tree/master/0441-arranging-coins) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Anubhavsh24/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Anubhavsh24/LeetCode/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
