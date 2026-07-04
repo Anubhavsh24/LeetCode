@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anubhavsh24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anubhavsh24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Anubhavsh24/LeetCode/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/Anubhavsh24/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Anubhavsh24/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Anubhavsh24/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anubhavsh24/LeetCode/tree/master/0242-valid-anagram) |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/0658-find-k-closest-elements) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Anubhavsh24/LeetCode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
