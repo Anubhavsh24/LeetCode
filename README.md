@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Anubhavsh24/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Anubhavsh24/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anubhavsh24/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1480-running-sum-of-1d-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anubhavsh24/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anubhavsh24/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Anubhavsh24/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anubhavsh24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
