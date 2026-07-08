@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Anubhavsh24/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Anubhavsh24/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anubhavsh24/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Anubhavsh24/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/Anubhavsh24/LeetCode/tree/master/3945-digit-frequency-score) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Anubhavsh24/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Two Pointers
