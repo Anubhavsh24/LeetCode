@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Anubhavsh24/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/Anubhavsh24/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Anubhavsh24/LeetCode/tree/master/0389-find-the-difference) |
 | [0861-score-after-flipping-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 ## Hash Table
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Anubhavsh24/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Anubhavsh24/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/Anubhavsh24/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Anubhavsh24/LeetCode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Anubhavsh24/LeetCode/tree/master/0633-sum-of-square-numbers) |
