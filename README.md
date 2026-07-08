@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anubhavsh24/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Anubhavsh24/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Anubhavsh24/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Anubhavsh24/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anubhavsh24/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0867-transpose-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Anubhavsh24/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Anubhavsh24/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Anubhavsh24/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
