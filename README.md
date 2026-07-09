@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anubhavsh24/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Anubhavsh24/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anubhavsh24/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3110-score-of-a-string](https://github.com/Anubhavsh24/LeetCode/tree/master/3110-score-of-a-string) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Anubhavsh24/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Matrix
 |  |
