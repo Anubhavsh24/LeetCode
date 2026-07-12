@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Anubhavsh24/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Anubhavsh24/LeetCode/tree/master/0389-find-the-difference) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Anubhavsh24/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Anubhavsh24/LeetCode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Anubhavsh24/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Anubhavsh24/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Anubhavsh24/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anubhavsh24/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anubhavsh24/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Anubhavsh24/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Anubhavsh24/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Anubhavsh24/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Trie
 |  |
 | ------- |
