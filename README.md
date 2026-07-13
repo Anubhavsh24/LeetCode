@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Anubhavsh24/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Anubhavsh24/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0136-single-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Anubhavsh24/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Anubhavsh24/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Anubhavsh24/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Anubhavsh24/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Anubhavsh24/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anubhavsh24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0189-rotate-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anubhavsh24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Anubhavsh24/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Anubhavsh24/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Anubhavsh24/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Anubhavsh24/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Anubhavsh24/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Anubhavsh24/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Anubhavsh24/LeetCode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0867-transpose-matrix) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anubhavsh24/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
