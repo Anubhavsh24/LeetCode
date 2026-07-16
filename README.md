@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/Anubhavsh24/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anubhavsh24/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Anubhavsh24/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Anubhavsh24/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anubhavsh24/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anubhavsh24/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anubhavsh24/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anubhavsh24/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3945-digit-frequency-score](https://github.com/Anubhavsh24/LeetCode/tree/master/3945-digit-frequency-score) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Anubhavsh24/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Two Pointers
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Anubhavsh24/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/Anubhavsh24/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Anubhavsh24/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anubhavsh24/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Anubhavsh24/LeetCode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0867-transpose-matrix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anubhavsh24/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
@@ -306,4 +311,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anubhavsh24/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
