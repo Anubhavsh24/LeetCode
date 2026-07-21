@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Anubhavsh24/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Anubhavsh24/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anubhavsh24/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/Anubhavsh24/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Anubhavsh24/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Anubhavsh24/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Anubhavsh24/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Anubhavsh24/LeetCode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Anubhavsh24/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anubhavsh24/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
