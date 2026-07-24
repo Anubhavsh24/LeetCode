@@ -2,8 +2,9 @@ class Solution {
 public:
     int minimumOperations(vector<int>& nums) {
         int count=0;
-        for(int x : nums){
-            if(x%3!=0) count++;
+        int n=nums.size();
+        for(int i=0;i<n;i++){
+            if(nums[i] %3!=0) count++;
         }
         return count;
     }
