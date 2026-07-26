@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Anubhavsh24/LeetCode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/0493-reverse-pairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anubhavsh24/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Anubhavsh24/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Anubhavsh24/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Anubhavsh24/LeetCode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anubhavsh24/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Anubhavsh24/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Anubhavsh24/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Anubhavsh24/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Anubhavsh24/LeetCode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anubhavsh24/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Anubhavsh24/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
