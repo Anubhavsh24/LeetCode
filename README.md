@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Anubhavsh24/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Anubhavsh24/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Anubhavsh24/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anubhavsh24/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anubhavsh24/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anubhavsh24/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anubhavsh24/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anubhavsh24/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Anubhavsh24/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/Anubhavsh24/LeetCode/tree/master/3110-score-of-a-string) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Anubhavsh24/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Matrix
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Anubhavsh24/LeetCode/tree/master/0455-assign-cookies) |
 | [0861-score-after-flipping-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anubhavsh24/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
