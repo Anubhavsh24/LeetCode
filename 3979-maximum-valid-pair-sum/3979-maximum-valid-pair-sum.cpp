@@ -1,0 +1,15 @@
+class Solution {
+public:
+    int maxValidPairSum(vector<int>& nums, int k) {
+        int n=nums.size();
+        int best=0;
+        int ans=0;
+        for(int j=k;j<n;j++){
+            best=max(best,nums[j-k]);
+            ans=max(ans,nums[j]+best);
+        }
+        return ans;
+        
+        
+    }
+};
