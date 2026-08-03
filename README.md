@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anubhavsh24/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Anubhavsh24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Anubhavsh24/LeetCode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anubhavsh24/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anubhavsh24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anubhavsh24/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Anubhavsh24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Anubhavsh24/LeetCode/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/Anubhavsh24/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anubhavsh24/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anubhavsh24/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Anubhavsh24/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Anubhavsh24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Anubhavsh24/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Anubhavsh24/LeetCode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anubhavsh24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anubhavsh24/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Anubhavsh24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Anubhavsh24/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Anubhavsh24/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anubhavsh24/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Anubhavsh24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Anubhavsh24/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Anubhavsh24/LeetCode/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/0493-reverse-pairs) |
