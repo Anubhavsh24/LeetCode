@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anubhavsh24/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Anubhavsh24/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Anubhavsh24/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anubhavsh24/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Anubhavsh24/LeetCode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Anubhavsh24/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Anubhavsh24/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Anubhavsh24/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Anubhavsh24/LeetCode/tree/master/0217-contains-duplicate) |
