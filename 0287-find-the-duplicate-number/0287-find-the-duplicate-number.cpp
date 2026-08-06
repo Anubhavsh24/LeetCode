@@ -2,20 +2,12 @@ class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
         int n=nums.size();
-        int lo=1;
-        int hi=n-1;
-        int mid;
-        int count;
-        while(lo<=hi){
-            mid=lo+(hi-lo)/2;
-            count=0;
-            for(int x : nums){
-                if(x<=mid) ++count;
-            }
-            if(count<=mid) lo=mid+1;
-            else hi=mid-1;
+        int i=0;
+        while(i<n){
+            int correctIdx=nums[i];
+            if(nums[correctIdx]==correctIdx) return correctIdx;
+            else swap(nums[correctIdx],nums[i]);
         }
-        return lo;
-
+        return 0;
     }
 };
