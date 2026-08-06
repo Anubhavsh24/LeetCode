@@ -1,16 +1,16 @@
 class Solution {
-public: // By Cyclic Sort Method
+public: // By Cyclic Sort Method -2
     int missingNumber(vector<int>& nums) {
         int n=nums.size();
-        vector<int> check(n+1,false);
-        for(int i=0;i<n;i++){
-            int ele=nums[i];
-            check[ele]=true;
-
+        int i=0;
+        while(i<n){
+            int ci=nums[i];
+            if(ci==i || nums[i]==n) i++;
+            else swap(nums[i],nums[ci]);
         }
-        for(int i=0;i<=n;i++){
-            if(check[i]==false) return i;
+        for(int j=0;j<n;j++){
+            if(nums[j]!=j) return j;
         }
-        return 0;
+        return n;
     }
 };
