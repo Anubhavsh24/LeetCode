@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Anubhavsh24/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anubhavsh24/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anubhavsh24/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Anubhavsh24/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2942-find-words-containing-character](https://github.com/Anubhavsh24/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/Anubhavsh24/LeetCode/tree/master/3110-score-of-a-string) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anubhavsh24/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Anubhavsh24/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Counting Sort
 |  |
