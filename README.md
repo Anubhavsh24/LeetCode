@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anubhavsh24/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/Anubhavsh24/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1402-reducing-dishes](https://github.com/Anubhavsh24/LeetCode/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anubhavsh24/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Anubhavsh24/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1402-reducing-dishes](https://github.com/Anubhavsh24/LeetCode/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anubhavsh24/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3731-find-missing-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/3731-find-missing-elements) |
@@ -267,12 +269,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anubhavsh24/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Anubhavsh24/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0509-fibonacci-number) |
+| [1402-reducing-dishes](https://github.com/Anubhavsh24/LeetCode/tree/master/1402-reducing-dishes) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Anubhavsh24/LeetCode/tree/master/0455-assign-cookies) |
 | [0861-score-after-flipping-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [1402-reducing-dishes](https://github.com/Anubhavsh24/LeetCode/tree/master/1402-reducing-dishes) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anubhavsh24/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
