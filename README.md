@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anubhavsh24/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Anubhavsh24/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Anubhavsh24/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2942-find-words-containing-character](https://github.com/Anubhavsh24/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anubhavsh24/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anubhavsh24/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Anubhavsh24/LeetCode/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anubhavsh24/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3731-find-missing-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1402-reducing-dishes](https://github.com/Anubhavsh24/LeetCode/tree/master/1402-reducing-dishes) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anubhavsh24/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Binary Search
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Anubhavsh24/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anubhavsh24/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Anubhavsh24/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anubhavsh24/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anubhavsh24/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Counting Sort
