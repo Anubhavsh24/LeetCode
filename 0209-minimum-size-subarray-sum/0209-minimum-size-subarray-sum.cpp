@@ -8,8 +8,7 @@ public:
         while(j<n){
             sum+=nums[j];
             while(sum>=target){
-                len=j-i+1;
-                minlen=min(minlen,len);
+                minlen=min(minlen,j-i+1);
                 sum-=nums[i++];
             }
             j++;
