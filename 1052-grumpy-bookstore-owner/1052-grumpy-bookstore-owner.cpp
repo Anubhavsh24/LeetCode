@@ -33,7 +33,9 @@ public:
         }
         int maxsum=0;
         for(int i=0;i<n;i++){
-            maxsum+=customers[i]*(!grumpy[i]);
+            if(!grumpy[i]){
+                maxsum+=customers[i];
+            }
         }
         return maxsum;
     }
