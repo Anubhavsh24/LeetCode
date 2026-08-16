@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Anubhavsh24/LeetCode/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anubhavsh24/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anubhavsh24/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anubhavsh24/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Anubhavsh24/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0509-fibonacci-number) |
 | [1402-reducing-dishes](https://github.com/Anubhavsh24/LeetCode/tree/master/1402-reducing-dishes) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anubhavsh24/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Anubhavsh24/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Anubhavsh24/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anubhavsh24/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anubhavsh24/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anubhavsh24/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Combinatorics
 |  |
