@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/Anubhavsh24/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anubhavsh24/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Anubhavsh24/LeetCode/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Anubhavsh24/LeetCode/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
 ## Binary Search
 |  |
 | ------- |
