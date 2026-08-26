@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anubhavsh24/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anubhavsh24/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Anubhavsh24/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anubhavsh24/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/Anubhavsh24/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anubhavsh24/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anubhavsh24/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anubhavsh24/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Anubhavsh24/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anubhavsh24/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anubhavsh24/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Combinatorics
 |  |
