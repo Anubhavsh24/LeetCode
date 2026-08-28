@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anubhavsh24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Anubhavsh24/LeetCode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Anubhavsh24/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Anubhavsh24/LeetCode/tree/master/0645-set-mismatch) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Anubhavsh24/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Anubhavsh24/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Anubhavsh24/LeetCode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Anubhavsh24/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Anubhavsh24/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anubhavsh24/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anubhavsh24/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Anubhavsh24/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Anubhavsh24/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Anubhavsh24/LeetCode/tree/master/0713-subarray-product-less-than-k) |
