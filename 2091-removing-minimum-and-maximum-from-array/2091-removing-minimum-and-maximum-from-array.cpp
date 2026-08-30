@@ -7,8 +7,7 @@ public:
         if(minIdx==maxIdx) return min(minIdx+1,n-minIdx);
         int left=min(minIdx,maxIdx);
         int right=max(minIdx,maxIdx);
-        int cost1=left+n-right+1;
-        return min({right+1,n-left,cost1});
+        return min({right+1,n-left,left+n-right+1});
 
     }
 };
