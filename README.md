@@ -96,6 +96,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Anubhavsh24/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anubhavsh24/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Anubhavsh24/LeetCode/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
@@ -450,6 +451,7 @@
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Anubhavsh24/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3903-smallest-stable-index-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Counting Sort
 |  |
 | ------- |
