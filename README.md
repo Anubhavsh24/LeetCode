@@ -180,6 +180,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Anubhavsh24/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Anubhavsh24/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Anubhavsh24/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0836-rectangle-overlap](https://github.com/Anubhavsh24/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anubhavsh24/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Anubhavsh24/LeetCode/tree/master/2235-add-two-integers) |
@@ -524,4 +525,8 @@
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Anubhavsh24/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
