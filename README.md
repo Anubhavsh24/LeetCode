@@ -83,6 +83,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Anubhavsh24/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anubhavsh24/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Anubhavsh24/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/Anubhavsh24/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -227,6 +228,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Anubhavsh24/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anubhavsh24/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -252,6 +254,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anubhavsh24/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -380,6 +383,7 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/Anubhavsh24/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Anubhavsh24/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anubhavsh24/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
