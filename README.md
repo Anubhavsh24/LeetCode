@@ -69,6 +69,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anubhavsh24/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1402-reducing-dishes](https://github.com/Anubhavsh24/LeetCode/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anubhavsh24/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -142,6 +143,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Anubhavsh24/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anubhavsh24/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anubhavsh24/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anubhavsh24/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anubhavsh24/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anubhavsh24/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -336,6 +338,7 @@
 | [0392-is-subsequence](https://github.com/Anubhavsh24/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0509-fibonacci-number) |
 | [1402-reducing-dishes](https://github.com/Anubhavsh24/LeetCode/tree/master/1402-reducing-dishes) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anubhavsh24/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anubhavsh24/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -380,6 +383,7 @@
 | [0875-koko-eating-bananas](https://github.com/Anubhavsh24/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anubhavsh24/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anubhavsh24/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Anubhavsh24/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Anubhavsh24/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -420,6 +424,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Anubhavsh24/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anubhavsh24/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anubhavsh24/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anubhavsh24/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Anubhavsh24/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anubhavsh24/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
