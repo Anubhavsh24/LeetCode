@@ -299,6 +299,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anubhavsh24/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Anubhavsh24/LeetCode/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Anubhavsh24/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Anubhavsh24/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Matrix
 |  |
@@ -324,6 +325,7 @@
 | [1929-concatenation-of-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anubhavsh24/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Anubhavsh24/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anubhavsh24/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/Anubhavsh24/LeetCode/tree/master/3959-check-good-integer) |
