@@ -298,6 +298,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anubhavsh24/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Anubhavsh24/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anubhavsh24/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anubhavsh24/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Anubhavsh24/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anubhavsh24/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anubhavsh24/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -476,6 +477,7 @@
 | [0020-valid-parentheses](https://github.com/Anubhavsh24/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Anubhavsh24/LeetCode/tree/master/0071-simplify-path) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anubhavsh24/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anubhavsh24/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
 |  |
 | ------- |
@@ -579,4 +581,8 @@
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Anubhavsh24/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anubhavsh24/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
