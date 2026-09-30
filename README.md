@@ -31,6 +31,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Anubhavsh24/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Anubhavsh24/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anubhavsh24/LeetCode/tree/master/0217-contains-duplicate) |
@@ -179,6 +180,7 @@
 | [0069-sqrtx](https://github.com/Anubhavsh24/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anubhavsh24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anubhavsh24/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Anubhavsh24/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Anubhavsh24/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Anubhavsh24/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -514,6 +516,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Anubhavsh24/LeetCode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Anubhavsh24/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/Anubhavsh24/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -551,6 +554,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Anubhavsh24/LeetCode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anubhavsh24/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
@@ -572,14 +576,17 @@
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Anubhavsh24/LeetCode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Anubhavsh24/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Anubhavsh24/LeetCode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Anubhavsh24/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Anubhavsh24/LeetCode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Anubhavsh24/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Bracket Sequences
 |  |
