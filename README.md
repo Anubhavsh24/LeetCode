@@ -92,6 +92,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2614-prime-in-diagonal](https://github.com/Anubhavsh24/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Anubhavsh24/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Anubhavsh24/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -567,6 +568,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Anubhavsh24/LeetCode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anubhavsh24/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
