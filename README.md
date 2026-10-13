@@ -103,6 +103,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anubhavsh24/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Anubhavsh24/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anubhavsh24/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anubhavsh24/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -279,6 +280,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anubhavsh24/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anubhavsh24/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavsh24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -383,6 +385,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anubhavsh24/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anubhavsh24/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Anubhavsh24/LeetCode/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
 ## Binary Search
