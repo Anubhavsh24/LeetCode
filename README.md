@@ -630,4 +630,8 @@
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Anubhavsh24/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Anubhavsh24/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
