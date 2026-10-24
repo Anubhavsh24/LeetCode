@@ -207,6 +207,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Anubhavsh24/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Anubhavsh24/LeetCode/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/Anubhavsh24/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/Anubhavsh24/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Anubhavsh24/LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Anubhavsh24/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -323,6 +324,7 @@
 | [1768-merge-strings-alternately](https://github.com/Anubhavsh24/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anubhavsh24/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anubhavsh24/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2409-count-days-spent-together](https://github.com/Anubhavsh24/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anubhavsh24/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anubhavsh24/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Anubhavsh24/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
