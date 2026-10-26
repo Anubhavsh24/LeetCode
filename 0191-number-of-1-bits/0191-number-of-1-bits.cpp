@@ -1,8 +1,8 @@
 class Solution {
 public:
-    uint32_t hammingWeight(uint32_t n) {
-        uint32_t ans=0;
-        for(int i=0;i<32;i++){
+    int hammingWeight(int n) {
+        int ans=0;
+        while(n>0){
             if(n&1) ans++;
             n>>=1;
         }
