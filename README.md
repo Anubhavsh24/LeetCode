@@ -108,6 +108,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Anubhavsh24/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anubhavsh24/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anubhavsh24/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3665-twisted-mirror-path-count](https://github.com/Anubhavsh24/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3668-restore-finishing-order](https://github.com/Anubhavsh24/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anubhavsh24/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anubhavsh24/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -364,6 +365,7 @@
 | [1254-number-of-closed-islands](https://github.com/Anubhavsh24/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Anubhavsh24/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2614-prime-in-diagonal](https://github.com/Anubhavsh24/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [3665-twisted-mirror-path-count](https://github.com/Anubhavsh24/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Anubhavsh24/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
@@ -399,6 +401,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anubhavsh24/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anubhavsh24/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anubhavsh24/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3665-twisted-mirror-path-count](https://github.com/Anubhavsh24/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Anubhavsh24/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
