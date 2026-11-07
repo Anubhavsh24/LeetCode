@@ -206,6 +206,7 @@
 | [0268-missing-number](https://github.com/Anubhavsh24/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Anubhavsh24/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Anubhavsh24/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/Anubhavsh24/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Anubhavsh24/LeetCode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anubhavsh24/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -331,6 +332,7 @@
 | [0344-reverse-string](https://github.com/Anubhavsh24/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Anubhavsh24/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Anubhavsh24/LeetCode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Anubhavsh24/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhavsh24/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Anubhavsh24/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -375,6 +377,7 @@
 | [0054-spiral-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Anubhavsh24/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Anubhavsh24/LeetCode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Anubhavsh24/LeetCode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/Anubhavsh24/LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Anubhavsh24/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Anubhavsh24/LeetCode/tree/master/1929-concatenation-of-array) |
